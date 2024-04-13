@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "366951299587",
+    "project_id": "coffee-c3a81",
+    "storage_bucket": "coffee-c3a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366951299587:android:0c29dffca0d4fa065c2c36",
+        "android_client_info": {
+          "package_name": "com.elclarin.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KY8DVBXKXDbfOlX7iSs03lePfaUiTz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366951299587-2itj9jdk0ha2jklg7k7g0dol92psmuk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybrid.costa.costaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366951299587:android:2b2d464317daffb55c2c36",
+        "android_client_info": {
+          "package_name": "com.example.call_noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KY8DVBXKXDbfOlX7iSs03lePfaUiTz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366951299587-2itj9jdk0ha2jklg7k7g0dol92psmuk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybrid.costa.costaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366951299587:android:7b127b12937576f25c2c36",
+        "android_client_info": {
+          "package_name": "com.example.call_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KY8DVBXKXDbfOlX7iSs03lePfaUiTz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366951299587-2itj9jdk0ha2jklg7k7g0dol92psmuk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybrid.costa.costaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366951299587:android:c908dd35a5456eda5c2c36",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KY8DVBXKXDbfOlX7iSs03lePfaUiTz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366951299587-2itj9jdk0ha2jklg7k7g0dol92psmuk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybrid.costa.costaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366951299587:android:630aa5d0b34724505c2c36",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KY8DVBXKXDbfOlX7iSs03lePfaUiTz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366951299587-odhaur064f0jenl5ikb4uvtmmhh703h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366951299587-2itj9jdk0ha2jklg7k7g0dol92psmuk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybrid.costa.costaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
